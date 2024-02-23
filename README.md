@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @mbaig-aimining
+- 👀 I’m interested in solving real-world problems with AI and PQC (post quantum computing)
+- 🌱 I’m currently learning: learning from my peers in the AI ethics space, AI governance, data provenance and security, plus above all continually learning about the dev of responsible and trustworthy AI systems
+- 💞️ I’m looking to collaborate on AI for Good
+- 📫 How to reach me: either my work email or my personal email
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Called up the Director of a DARPA project many, many years ago (during a time when people actually used land-line telephones) and asked if he had sent the proposal to the right country ;) (yes I'm in Canada) the response, "You're part of NATO aren't you?"
